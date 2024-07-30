@@ -63,5 +63,5 @@ AtliQ is a fast-growing hardware company that sells various products to customer
   
 ## Links 
 - [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDc4ZjdhZDEtZTk1YS00NTE5LTkzN2UtNDA1MjE2N2E1OTdlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- Linkedin 
+- [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7218244093875810305/)
 
